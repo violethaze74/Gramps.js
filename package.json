@@ -15,7 +15,7 @@
     "start": "web-dev-server --app-index index.html --node-resolve --open --watch"
   },
   "devDependencies": {
-    "@open-wc/building-rollup": "^1.9.4",
+    "@open-wc/building-rollup": "^2.0.2",
     "@open-wc/demoing-storybook": "^2.4.6",
     "@open-wc/eslint-config": "^4.0.1",
     "@open-wc/testing": "^2.5.32",
